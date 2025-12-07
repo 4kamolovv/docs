@@ -215,7 +215,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Mehmonxona",
-    "questionpic": "../images/signs/kasalxona.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/kasalxona.gif"
   },
   {
     "id": 31,
@@ -223,7 +223,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Kotarma koprik",
-    "questionpic": "../images/signs/kotarma_koprik.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/kotarma_koprik.gif"
   },
   {
     "id": 32,
@@ -231,7 +231,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Cheklangan balandlik",
-    "questionpic": "../images/signs/maksimal_balandlik.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/maksimal_balandlik.gif"
   },
   {
     "id": 33,
@@ -239,7 +239,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Cheklangan kenglik",
-    "questionpic": "../images/signs/maksimal_kenglik.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/maksimal_kenglik.gif"
   },
   {
     "id": 34,
@@ -247,7 +247,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Vazn cheklangan",
-    "questionpic": "../images/signs/maksimal_ogrlik.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/maksimal_ogrlik.gif"
   },
   {
     "id": 35,
@@ -255,7 +255,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Cheklangan uzunlik",
-    "questionpic": "../images/signs/maksimal_uzunlik.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/maksimal_uzunlik.gif"
   },
   {
     "id": 36,
@@ -263,7 +263,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Avtobus va trolleybus to’xtash joyi",
-    "questionpic": "../images/signs/marshrut.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/marshrut.gif"
   },
   {
     "id": 37,
@@ -271,7 +271,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Mexanik transport vositalarining harakatlanishi taqiqlangan",
-    "questionpic": "../images/signs/mexanik_taqiqlangan.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/mexanik_taqiqlangan.gif"
   },
   {
     "id": 38,
@@ -279,7 +279,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Mototsikllar harakatlanishi taqiqlangan",
-    "questionpic": "../images/signs/motosikl_taqiqlanadi.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/motosikl_taqiqlanadi.gif"
   },
   {
     "id": 39,
@@ -287,7 +287,7 @@
     "subject": "Avto test",
     "question": "Bu qanday yo'l harakati belgisi?",
     "answer": "Eng kam oraliq",
-    "questionpic": "../images/signs/oraliq_masofa.gif"
+    "questionpic": "https://4kamolovv.github.io/docs/images/signs/oraliq_masofa.gif"
   },
   {
     "id": 40,
