@@ -6,10 +6,10 @@
         "prolink": "https://4kamolov.github.io/justavtotest/"
     },
     {
-        "proname": "project1Title",
-        "propic": "https://4kamolovv.github.io/docs/images/image/imgmilliy.png",
-        "prodesc": "project1Desc",
-        "prolink": "https://4kamolov.github.io/myfirstpro/"
+        "proname": "project2Title",
+        "propic": "https://4kamolovv.github.io/docs/images/image/imgtestuz.png",
+        "prodesc": "project2Desc",
+        "prolink": "https://4kamolovv.github.io/testapp/"
     },
     {
         "proname": "project4Title",
@@ -18,9 +18,9 @@
         "prolink": "https://sensational-cocada-3179a7.netlify.app/"
     },
     {
-        "proname": "project2Title",
-        "propic": "https://4kamolovv.github.io/docs/images/image/imgtestuz.png",
-        "prodesc": "project2Desc",
-        "prolink": "https://4kamolovv.github.io/testapp/"
+        "proname": "project1Title",
+        "propic": "https://4kamolovv.github.io/docs/images/image/imgmilliy.png",
+        "prodesc": "project1Desc",
+        "prolink": "https://4kamolov.github.io/myfirstpro/"
     }
 ]
