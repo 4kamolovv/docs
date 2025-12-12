@@ -10052,34 +10052,39 @@
     "topic": "excA",
     "subject": "Prezident Maktabi",
     "question": "question 1",
-    "answer": "answer 1"
+    "answer": "answer 1",
+    "questionpic": "https://4kamolovv.github.io/docs/images/image/bg.svg"
   },
-   {
+  {
     "id": 1541,
     "topic": "excA",
     "subject": "Prezident Maktabi",
     "question": "question 2",
-    "answer": "answer 2"
+    "answer": "answer 2",
+    "questionpic": "https://4kamolovv.github.io/docs/images/image/bg.svg"
   },
-   {
+  {
     "id": 1542,
     "topic": "excA",
     "subject": "Prezident Maktabi",
     "question": "question 3",
-    "answer": "answer 3"
+    "answer": "answer 3",
+    "questionpic": "https://4kamolovv.github.io/docs/images/image/bg.svg"
   },
-   {
+  {
     "id": 1543,
     "topic": "excA",
     "subject": "Prezident Maktabi",
     "question": "question 4",
-    "answer": "answer 4"
+    "answer": "answer 4",
+    "questionpic": "https://4kamolovv.github.io/docs/images/image/bg.svg"
   },
-    {
+  {
     "id": 1544,
     "topic": "excA",
     "subject": "Prezident Maktabi",
     "question": "question 5",
-    "answer": "answer 5"
+    "answer": "answer 5",
+    "questionpic": "https://4kamolovv.github.io/docs/images/image/bg.svg"
   }
 ]
